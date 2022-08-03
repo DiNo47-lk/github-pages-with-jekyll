@@ -1,13 +1,11 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Git Hub Club
+author: Dinuk Dilshan
+theme: minima
+email: dilshan.lk47@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Learn how to use Git at your workplace to keep your codebase safe and up-to-date, as well as how to collaborate with other developers on a team.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  DiNo47-lk
 
 show_excerpts: true # set to false to remove excerpts on the homepage
